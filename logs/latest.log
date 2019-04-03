@@ -1,0 +1,94 @@
+[13:08:56] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:08:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:08:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:08:56] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:08:56] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:08:56] [main/INFO]: Loaded 0 recipes
+[13:08:56] [main/INFO]: Loaded 0 advancements
+[13:08:56] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Descripteur non valide
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_191]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_191]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_191]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_191]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_191]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_191]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_191]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_191]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_191]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_191]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_191]
+	at so$2.run(SourceFile:110) [server%20(2).jar:?]
+[13:08:56] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[13:08:56] [Server thread/INFO]: Loading properties
+[13:08:57] [Server thread/INFO]: Default game type: SURVIVAL
+[13:08:57] [Server thread/INFO]: Generating keypair
+[13:08:57] [Server thread/INFO]: Starting Minecraft server on 25.35.33.200:25565
+[13:08:57] [Server thread/INFO]: Using default channel type
+[13:08:59] [Server thread/INFO]: Preparing level "world"
+[13:08:59] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:09:02] [Server thread/INFO]: Loaded 524 recipes
+[13:09:03] [Server thread/INFO]: Loaded 571 advancements
+[13:09:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:09:03] [Server thread/INFO]: Preparing spawn area: 4%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 8%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 12%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 16%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 20%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 24%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 28%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 32%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 36%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 40%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 44%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 48%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 52%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 56%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 60%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 64%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 68%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 72%
+[13:09:04] [Server thread/INFO]: Preparing spawn area: 76%
+[13:09:05] [Server thread/INFO]: Preparing spawn area: 80%
+[13:09:05] [Server thread/INFO]: Preparing spawn area: 84%
+[13:09:05] [Server thread/INFO]: Preparing spawn area: 88%
+[13:09:05] [Server thread/INFO]: Preparing spawn area: 92%
+[13:09:05] [Server thread/INFO]: Preparing spawn area: 96%
+[13:09:05] [Server thread/INFO]: Preparing spawn area: 100%
+[13:09:05] [Server thread/INFO]: Time elapsed: 1511 ms
+[13:09:05] [Server thread/INFO]: Done (6.078s)! For help, type "help"
+[13:21:54] [User Authenticator #1/INFO]: UUID of player vJassem_tube is 4f4a40af-e4da-4ba4-a0ed-a8396644523c
+[13:21:55] [Server thread/INFO]: vJassem_tube[/25.35.33.200:53456] logged in with entity id 337 at (257.093294815472, 63.0, 124.08730603639607)
+[13:21:55] [Server thread/INFO]: vJassem_tube joined the game
+[13:21:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
+[13:27:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5884ms or 117 ticks behind
+[13:27:29] [Server thread/WARN]: vJassem_tube moved too quickly! 6.856425498556575,0.0,7.738307914757797
+[13:29:10] [Server thread/WARN]: vJassem_tube moved too quickly! -9.995043577114473,0.0,-3.0649368441042952
+[13:29:21] [Server thread/INFO]: [vJassem_tube: Set own game mode to Survival Mode]
+[13:32:32] [Server thread/INFO]: [vJassem_tube: Set own game mode to Creative Mode]
+[13:33:09] [Server thread/INFO]: [vJassem_tube: Set own game mode to Survival Mode]
+[13:35:01] [Server thread/INFO]: [vJassem_tube: Set own game mode to Creative Mode]
+[13:41:04] [Server thread/WARN]: vJassem_tube moved too quickly! -7.244544011308193,-5.418772831256334,4.363532178005727
+[13:43:05] [Server thread/INFO]: vJassem_tube has made the advancement [Hot Stuff]
+[13:43:10] [Server thread/INFO]: [vJassem_tube: Set own game mode to Survival Mode]
+[13:43:12] [Server thread/INFO]: vJassem_tube tried to swim in lava
+[13:43:14] [Server thread/WARN]: vJassem_tube moved too quickly! -28.524209923702188,0.0,-116.73805739372261
+[13:43:28] [Server thread/INFO]: [vJassem_tube: Set own game mode to Creative Mode]
+[13:48:52] [Server thread/WARN]: vJassem_tube moved too quickly! 10.774805017149333,0.0,0.41116048232572666
+[13:48:54] [Server thread/WARN]: vJassem_tube moved too quickly! 9.273708938301013,0.0,-3.9343789820330244
+[13:48:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[13:49:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4089ms or 81 ticks behind
+[13:56:10] [Server thread/INFO]: vJassem_tube lost connection: Disconnected
+[13:56:10] [Server thread/INFO]: vJassem_tube left the game
+[13:56:11] [Server thread/INFO]: Stopping server
+[13:56:11] [Server thread/INFO]: Saving players
+[13:56:11] [Server thread/INFO]: Saving worlds
+[13:56:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[13:56:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[13:56:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[13:56:11] [Server Shutdown Thread/INFO]: Stopping server
+[13:56:11] [Server Shutdown Thread/INFO]: Saving players
+[13:56:11] [Server Shutdown Thread/INFO]: Saving worlds
+[13:56:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[13:56:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[13:56:11] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
